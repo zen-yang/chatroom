@@ -1,0 +1,12 @@
+.chat-center {
+    text-align: center;
+}
+
+.chat-center-block {
+    margin: 0 auto;
+}
+
+.chat-block {
+    display: block;
+    width: 700px;
+}
